@@ -18,6 +18,10 @@
  🔭 I’m currently working on [Detection & Instance Segmentation on Foot Ulcer](https://github.com/aryanactive/Instance_segmentation)
 [![GitHub Repo stars](https://img.shields.io/github/stars/aryanactive/Instance_segmentation?style=social)](https://github.com/aryanactive/Instance_segmentation)
 
+- 👨‍💻 WEB_DEVELOPEMENT Deployed projects-:
+    - ## Online Library Exchange [https://aryanactive.github.io/Online_Library_Portal/](https://aryanactive.github.io/Online_Library_Portal/)
+    - ### Solar Survey Portal [https://aryanactive.github.io/Solar_Survey_Portal/](https://aryanactive.github.io/Solar_Survey_Portal/)
+
 ## 🏆 Achievements & Certificates
 
 ### 🔹 Achievements
@@ -61,13 +65,15 @@
 
 - 🤝 I’m looking for help with [Full Stack Developer](Refer resume)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1LKdabbaoF_SuNuECt8t5TBKxAaBWb3j7/view?usp=drive_link](https://drive.google.com/file/d/1LKdabbaoF_SuNuECt8t5TBKxAaBWb3j7/view?usp=drive_link)
+- 👨‍💻 All of my Deployed projects are available at-:
+    - ## Online Library Exchange [https://aryanactive.github.io/Online_Library_Portal/](https://aryanactive.github.io/Online_Library_Portal/)
+    - ### Solar Survey Portal [https://aryanactive.github.io/Solar_Survey_Portal/](https://aryanactive.github.io/Solar_Survey_Portal/)
 
 - 💬 Ask me about **Frontend Development – Web animations and visual effects using JS, HTML, and CSS**
 
 - 📫 How to reach me **aryanactive.in@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LKdabbaoF_SuNuECt8t5TBKxAaBWb3j7/view?usp=drive_link](https://drive.google.com/file/d/1LKdabbaoF_SuNuECt8t5TBKxAaBWb3j7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11zvmYRdC7Xb7JFi3yLGhEjSZfP_1VEit/view?usp=sharing](https://drive.google.com/file/d/11zvmYRdC7Xb7JFi3yLGhEjSZfP_1VEit/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am a quick learner and mannages my team as a well balanced Team Lead.**
 
