@@ -29,7 +29,7 @@
 - 🥈 **Runner-Up** – [India Skills Hackathon 2024 (Pre-National)](https://www.linkedin.com/posts/aryanactive_indiaskills-statelevel-aryanactive-activity-7188156758324834304-kRJl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADakyPkBmR0jQ-8puQbgBJ0zXzVlj1wNq7Y)
 - ✅ **Qualifier** – Odisha Skills 2024 (Web Technologies)  
 - 🏅 [Pradhan Mantri INSPIRE Award-MANAK 2018 – State Level Runner-Up](https://drive.google.com/file/d/1k_Qb5mBMNMSjU2amzuhqVS7cS4oY5KMv/view?usp=sharing)  
-- 🔢 Solved **100+ Problems** on [LeetCode](https://leetcode.com/u/aryanactive/)  
+- 🔢 Solved **Problems** on [LeetCode](https://leetcode.com/u/aryanactive/)  
 - 🏆 Honored by **Science Department, Govt. of India**  
   🥇 Awarded **Gold Trophy** by S.P., Gumla  
 - 🥈 [2nd Position – All India Threedots Diwali Gold Contest](https://example.com/threedots-cert)  
