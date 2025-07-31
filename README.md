@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/raj_arya_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj_arya_n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryanactive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanactive" height="30" width="40" /></a>
-<a href="https://fb.com/aryanactive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryanactive" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026133019494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryanactive" height="30" width="40" /></a>
 <a href="https://instagram.com/aryanrajbsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanrajbsr" height="30" width="40" /></a>
 </p>
 
